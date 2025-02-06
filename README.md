@@ -5,7 +5,11 @@ This repository contains Python scripts for solving various problems in neurosci
 ## Overview
 
 - **Problem Sets**: 5 Python scripts (`Problem_set_1.py` to `Problem_set_5.py`).
-- **Topics**: List/dictionary manipulations, NumPy array operations, Matplotlib visualizations, statistical testing, signal filtering, fMRI/EEG data analysis, and regression models.
+- **Additional Scripts**: 
+  - `Bootstrap_permutation.py`: Demonstrates bootstrap and permutation tests for statistical analysis.
+  - `Classification.py`: Implements logistic regression and SVM classifiers for binary classification tasks.
+  - `Final_Project.py`: A comprehensive final project covering array manipulations, statistical tests, bootstrapping, and signal filtering.
+- **Topics**: List/dictionary manipulations, NumPy array operations, Matplotlib visualizations, statistical testing, signal filtering, fMRI/EEG data analysis, regression models, and classification.
 - **Collaborators**: Kevin Seth, Jared Lim, Raiyan Osman (credited per problem set).
 
 ## Dependencies
@@ -16,8 +20,9 @@ This repository contains Python scripts for solving various problems in neurosci
   - Matplotlib
   - SciPy
   - Pandas
+  - Scikit-learn (for classification tasks)
   - IPython (for audio playback in Problem Set 5)
-- Data files:
+- Data files (not included):
   - `text_file.txt` (Problem Set 1)
   - `ps3_neural_data.npz`, `labels.txt` (Problem Set 3)
   - `ps4_dataset_2.npz`, `ps4_dataset_3.npz` (Problem Set 4)
