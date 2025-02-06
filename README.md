@@ -22,7 +22,7 @@ This repository contains Python scripts for solving various problems in neurosci
   - Pandas
   - Scikit-learn (for classification tasks)
   - IPython (for audio playback in Problem Set 5)
-- Data files (not included):
+- Data files:
   - `text_file.txt` (Problem Set 1)
   - `ps3_neural_data.npz`, `labels.txt` (Problem Set 3)
   - `ps4_dataset_2.npz`, `ps4_dataset_3.npz` (Problem Set 4)
