@@ -1,0 +1,177 @@
+Assigned Review Articles (All must read within first two weeks)
+
+D. Purves. Neuroscience (textbook on Canvas). Chapter 26 Nerve regeneration.
+
+G.D. Bittner. 1991. Long term survival of anucleate axons and its implications for nerve regeneration. Trends in Neurosci. 14:188-193.
+
+G.D. Bittner, T. Schallert, and J. D. Peduzzi. 2000. Degeneration, trophic interactions, and repair of severed axons: A reconsideration of some common assumptions. The Neuroscientist. 6: 88 - 109.
+
+G.D. Bittner and H.M. Fishman. 2000. Axonal sealing following injury. Invited chapter in Nerve Regeneration. Ed.
+N. Ingoglia and M. Murray. Marcel Dekker. P. 337 - 370
+
+H.M. Fishman and G.D. Bittner. 2003. Vesicle-mediated restoration of a plasmalemmal barrier in severed axons. News in Physiological Sciences. 18:115-118. PubMed PMID: 12750447.
+
+Menorca RM, Fussell TS, Elfar JC. Nerve physiology: mechanisms of injury and recovery. Hand Clin. 2013 Aug;29(3):317-30. doi: 10.1016/j.hcl.2013.04.002. PMID: 23895713; PMCID: PMC440855
+
+G.D. Bittner, D.R. Sengelaub, R.C. Trevino, J.D. Peduzzi, M. Mikesh, C.L. Ghergherehchi, T.Schallert, W.P. Thayer. 2016. The curious ability of PEG-fusion technologies to restore lost behaviors after nerve severance. J Neurosci Res. 94: 207-230. online 3 Nov.2015. doi. 1002/jnr 23685
+
+Vargas SA and Bittner GD. 2019. Natural mechanisms and artificial PEG-induced mechanism that repair traumatic damage to the plasmalemma in eukaryotes. Current Topics in Membranes: Plasma Membrane Repair. 84: 129-167.
+
+George D. Bittner, Jared S. Bushman, Cameron L. Ghergherehchi, Kelly C.S. Roballo, Jamie T. Shores, Tyler A. Smith. 2021. Typical and Atypical Properties of Peripheral Nerve Allografts Enable Novel Strategies to Repair Segmental Loss Injuries. Journal of Neuroinflammation. In Press.
+
+Bryan Tsao, Kevin Cronin and Brian Murray. Bradley and Daroff's Neurology in Clinical Practice, 64, 950-963.e2.
+Trauma of the Nervous System: Peripheral Nerve Trauma. https://www-clinicalkey- com.ezproxy.lib.utexas.edu/#!/content/book/3-s2.0-B9780323642613000644
+
+
+
+
+
+Distal stump survival, Wallerian degeneration, and natural methods of re-innervation
+
+R.R. Hoy, G.D. Bittner, and D. Kennedy. 1967. Regeneration in crustacean motoneurons: evidence for axonal fusion. Science 156:251-252.
+
+M.S. Bouton and G.D. Bittner. 1981. Regeneration of motor axons in crayfish limbs: distal stump activation followed by synaptic reformation. Cell and Tiss. Res. 219:379-392.
+
+David, S., & Aguayo, A. J. (1981). Axonal elongation into peripheral nervous system "bridges" after central nervous system injury in adult rats. Science (New York, N.Y.), 214(4523), 931–933. https://doi.org/10.1126/science.6171034
+
+G.D. Bittner. 1988. Long term survival of severed distal axonal stumps in vertebrates and invertebrates. Am. Zool. 28:1165-1179.
+ 
+J.A. Blundon, R.A. Sheller, J.W. Moehlenbruck, and G.D. Bittner. 1990. Effect of temperature on long term survival of anucleate giant axons in crayfish and goldfish. J. Comp. Neurol. 297:377-391.
+
+T.L. Krause and G.D. Bittner. 1990. Rapid morphological fusion of severed myelinated axons by polyethylene glycol. PNAS. 87:1471-1475.
+
+J.W. Moehlenbruck, J.A. Cummings and G.D. Bittner. 1994. Long term survival followed by degradation of neurofilament proteins in severed Mauthner axons of goldfish. J. Neurobiol. 25:1637-1651.
+
+T.D. Raabe, T. Nguyen, and G.D. Bittner. 1995. Calcium activated proteolysis of neurofilament proteins in goldfish Mauthner axons. J. Neurobiol. 26:253-261. PubMed PMID: 7707045.
+
+R.A. Sheller, M. Tytell, M. Smyers, and G.D. Bittner. 1995. Glia to axon communication: Enrichment of glial proteins transferred to the squid giant axon. J. Neurochem. Res. 41:324-334.
+
+S.L. Tanner, E.E. Storm, and G.D. Bittner. 1995. Maintenance and degradation of proteins in intact and severed axons: Implications for the mechanism of long term survival of anucleate crayfish axons. J. Neurosci. 15:540-548.
+
+S.L. Tanner, E.E. Storm, and G.D. Bittner. 1995. Protein transport in intact and severed (anucleate) crayfish medial giant axons. J. Neurochem. 64:1491-1501.
+
+T. Sea, M.L. Ballinger, and G.D. Bittner. 1995. Cooling of peripheral myelinated axons retards Wallerian degeneration. Exp. Neurol. 133:85-95.
+
+T.D. Raabe and G.D. Bittner. 1996. Phosphorylation of neurofilament proteins in isolated goldfish Mauthner axoplasm. J. Neurochem., 66:1214-1221.
+
+T.D. Raabe, T. Nguyen, C. Archer, and G.D. Bittner. 1996. Mechanisms for the maintenance and eventual degradation of neurofilament proteins in the distal segments of severed goldfish Mauthner axons. J. Neurosci., 16: 1605-1613. PubMed PMID: 8774429.
+
+A. Sunio and G.D. Bittner. 1997. Cyclosporin retards the Wallerian degeneration of peripheral mammalian axons. Exp. Neurol., 146:46 - 56. doi: 10.1006/exnr.1997.6484. PubMed PMID: 9225737.
+
+R.A. Sheller, M.E. Smyers, R.M. Grossfeld, M.L. Ballinger, and G.D. Bittner. 1998. Heat shock proteins in crayfish medial giant axons: High constitutive levels and transfer of inducible isoforms from glia. J. Comp. Neurol. 396:1-
+11. PubMed PMID: 9623883.
+
+Fawcett J. W. (2018). The Paper that Restarted Modern Central Nervous System Axon Regeneration Research. Trends in neurosciences, 41(5), 239–242. https://doi.org/10.1016/j.tins.2018.02.012
+
+
+
+
+Plasmalemmal repair
+
+T.L. Krause, H.M. Fishman, M.L. Ballinger, and G.D. Bittner. 1994. Extent and mechanism of sealing in transected giant axons of squid and earthworms. J. Neurosci. 14:6638-6651.
+
+Steinhardt, R. A., Bi, G., & Alderton, J. M. (1994). Cell membrane resealing by a vesicular mechanism similar to neurotransmitter release. Science (New York, N.Y.), 263(5145), 390–393.
+C.S. Eddleman, M.L. Ballinger, M.E. Smyers, C.M. Godell, H.M. Fishman, and G.D. Bittner. 1997. Repair of plasmalemmal lesions by vesicles. PNAS. 94:4745-4750. PubMed PMID: 9114062; PubMed Central PMCID: PMCPMC20795.
+ 
+Terasaki, M., Miyake, K., & McNeil, P. L. (1997). Large plasma membrane disruptions are rapidly resealed by Ca2+- dependent vesicle-vesicle fusion events. J call Biology, 139(1), 63–74. https://doi.org/10.1083/jcb.139.1.63
+
+C.M. Godell, M. Ballinger, C.S. Eddleman, M.E. Smyers, H.M. Fishman, and G.D. Bittner. 1997. Calpain promotes the sealing of severed giant axons. PNAS. 94:4751-4756. PubMed PMID: 9114063.
+
+M.L. Ballinger, A.R. Blanchette, T.L. Krause, M.E. Smyers, H.M. Fishman, and G.D. Bittner. 1997. Delaminating myelin membranes help seal the cut ends of severed earthworm giant axons. J. Neurobiol., 33: 945-960. PubMed PMID: 9407015.
+
+C.S. Eddleman, M.L. Ballinger, M.E. Smyers, H.M. Fishman, and G.D. Bittner. 1998. Endocytotic formation of vesicles and other membranous structures induced by Ca2+ and axoplasmic injury. J. Neurosci. 18:4029-4041. PubMed PMID: 9592084.
+
+A.R. Blanchette, M.L. Ballinger, H.M. Fishman, and G.D. Bittner. 1999. Calcium entry initiates processes that restore a barrier to dye entry in severed earthworm axons. Neuroscience Letters. 272:147-150. PubMed PMID: 10505602.
+
+J. W. Lichstein, M.L. Ballinger, A.R. Blanchette, H.M. Fishman, and G.D. Bittner. 2000. Structural changes at the cut ends of earthworm giant axons in the interval between dye barrier formation and neuritic outgrowth. J. Comp. Neurol. 416: 143-157. PubMed PMID: 10581462 .
+
+C.S. Eddleman, E. Detrait, G.D. Bittner, and H.M. Fishman. 2000. Barrier permeability at cut axonal ends progressively decreases until an axonal seal is formed. Biophys. J., 79: 1883 - 1890. . doi: 10.1016/S0006- 3495(00)76438-1. PubMed PMID: 11023894; PubMed Central PMCID: PMCPMC1301080.
+
+E. Detrait, C.S. Eddleman, S. Yoo, M. Fukuda, G.D. Bittner, and H.M. Fishman. 2000. Axolemmal repair requires proteins that mediate synaptic vesicle fusion. J. Neurobiol. 44:382 - 391. PubMed PMID: 10945894.
+
+E. Detrait, S. Yoo, C.S. Eddleman, M. Fukuda, G.D. Bittner, and H.M. Fishman. 2000. Repair of severed neurites of PC 12 cells requires divalent cations and a conserved region of synaptotagmin. J. Neuroscience Research. 62: 566 –
+573. PubMed PMID: 11070500.
+
+McNeil, P. L., & Baker, M. M. (2001). Cell surface events during resealing visualized by scanning-electron microscopy. Cell and tissue research, 304(1), 141–146. https://doi.org/10.1007/s004410000286.
+
+C.S. Eddleman, G.D. Bittner, and H.M. Fishman. 2003. SEM comparison of severed ends of giant axons isolated from squid (Loligo pealei) and crayfish (Procambarus clarkii). Biol Bull. 203: 219 – 220. PubMed PMID: 12414587.
+
+H.M. Fishman and G.D. Bittner. 2003. Vesicle-mediated restoration of a plasmalemmal barrier in severed axons. News in Physiological Sciences. 18:115-118. PubMed PMID: 12750447.
+
+S. Yoo, M. P. Nguyen, M. Fukuda, G. D. Bittner, and H. M. Fishman. 2003. Plasmalemmal sealing of transected mammalian neurites is a gradual process mediated by Ca-regulated proteins. J. Neurosci. Res. 74:541-551. doi: 10.1002/jnr.10771. PubMed PMID: 14598298
+
+S. Yoo, J.E, Bottenstein, G. D. Bittner, and H. M. Fishman. 2004. Survival of mammalian B104 cells following neurite transection at different locations depends on somal calcium concentration. J. Neurobiol. 60: 137-153. doi: 10.1002/neu.20005. PubMed PMID: 15266646
+
+M.G. Nguyen, G.D. Bittner, and H.M. Fishman. 2005. Critical interval of somal calcium transient after neurite transaction determines B104 cell survival. J. Neurosci. Res.,81: 805-816. doi: 10.1002/jnr.20606. PubMed PMID: 16049977; PubMed Central PMCID: PMCPMC1237108.
+ 
+C.S. Spaeth, E.A. Boydston, L.A. Figard, A. Zuzek and G.D. Bittner. 2010. A model for sealing plasmalemmal damage in neurons and other eukaryotic cells. J. Neurosci. 30:15790-15800. doi: 10.1523/JNEUROSCI.4155-10.2010. PubMed PMID: 21106818.
+
+C.S. Spaeth, J.D. Fan, E.B. Spaeth, T. Robison, R.W. Wilcott and G.D. Bittner. 2012. Neurite transection produces cytosolic oxidation which enhances plasmalemmal repair. J Neurosci Res. 90:945-954. doi: 10.1002/neu.20005. PubMed PMID: 15266646.
+
+C.S. Spaeth, E.B. Spaeth, R.W.Wilcott, J.D.Fan, T.Robison and G.D. Bittner. 2012. Pathways for plasmalemmal repair mediated by PKA, Epac and cytosolic oxidation in rat B104 cells in vitro and rat sciatic axons ex vivo. Devel Neurol. 72:1399-1414. doi: 10.1002/dneu.20998. PubMed PMID: 22076955.
+
+C.S. Spaeth, T.Robison, J.D.Fan and G.D. Bittner. 2012. Cellular mechanisms of plasmalemmal sealing and axonal repair by polyethylene glycol and methylene blue. J Neursosci Res. 90:955-966. doi: 10.1002/jnr.23022. PubMed PMID: 22302626.
+
+A. Zuzek, J.D. Fan, C. S. Spaeth, G.D. Bittner. 2013. Sealing of transected neurites of rat B104 cells requires a diacylglycerol PKC-dependent pathway and a PKA-dependent pathway. Cell Molec Neurosci. 33:31-46. doi: 10.1007/s10571-012-9868-5. Epub 2012 Aug 3.
+
+C.H. McGill, S. R. Bhupanapadu Sunkesula, A.D. Poon, M. Mikesh, G. D. Bittner. 2016. Sealing Frequency of B104 Cells Declines Exponentially with Decreasing Transection Distance from the Axon Hillock. Exp. Neurol. 279:149-158. doi:10.1016/j.expneurol.2016.02.001.
+
+Davenport, N. R., Sonnemann, K. J., Eliceiri, K. W., & Bement, W. M. (2016). Membrane dynamics during cellular wound repair. Molecular biology of the cell, 27(14), 2272–2285. https://doi.org/10.1091/mbc.E16-04-0223
+
+Andrew D. Poon, Sarah H. McGill, Solomon Raju Bhupanapadu Sunkesula, Zachary S. Burgess, Patrick J. Dunne, Edward E. Kang and George D Bittner. 2019. CaMKII and DMSO affect the sealing frequencies of transected hippocampal neurons. J. Neurosci. Res. 96:1208-1222. doi: 10.1002/jnr.24232.
+
+Togo T. (2019). Signaling pathways involved in adaptive responses to cell membrane disruption. Current topics in membranes, 84, 99–127. https://doi.org/10.1016/bs.ctm.2019.07.003.
+
+
+
+
+PEG-fusion
+
+T.L. Krause and G.D. Bittner. 1990. Rapid morphological fusion of severed myelinated axons by polyethylene glycol. PNAS. 87:1471-1475.
+
+A.B.Lore, J.A.Hubbell, D.S. Bobb Jr., M.L.Ballinger, K.L. Loftin, , J.W.Smith, M.E. Smyers,	H.D.Garcia and
+G.D. Bittner. 1999. Rapid induction of functional and morphological continuity between severed ends of mammalian or earthworm myelinated axons. J Neurosci. 19: 2442 – 2454. PubMed PMID: 10087059.
+
+J.M. Britt, J.R. Kane, C.S. Spaeth, A. Zuzek, G.L. Robinson, M.Y. Gbanaglo, C.J. Estler, E.A. Boydston, T. Schallert and
+G.D. Bittner. 2010. Polyethylene glycol rapidly restores axonal integrity and improves the rate of motor behavior recovery after sciatic nerve crush injury. J Neurophysiol. 104: 695-703. doi: 10.1152/jn.01051.2009. PubMed PMID: 20445038.
+
+G.D. Bittner, C.P. Keating, J. R. Kane , J.M. Britt, C.S. Spaeth,, J. D. Fan, A. Zuzek R.W. Wilcott, W. P. Thayer, J.M. Winograd, F. Gonzalez-Lima and T. Schallert . 2012. Rapid, effective and long-lasting behavioral recovery
+ 
+produced by microsutures, methylene blue and polyethylene glycol after complete cut of rat sciatic nerves. J Neurosci Res. 90:967-980. doi: 10.1002/jnr.23023. PubMed PMID: 22302646.
+
+K.W. Sexton, A.C. Pollins, N. L. Cardwell, G. A. Del Corral, G. D. Bittner, R. B. Shack, L. B. Nanney, W. P. Thayer. 2012. Hydrophilic polymers enhance early functional outcomes after nerve autografting. J. Surgical Res. 177:392-
+400. doi: 10.1016/j.jss.2012.03.049. PubMed PMID: 22521220; PubMed Central PMCID: PMCPMC4096106.
+
+C.L. Rodriguez-Feo, K.W. Sexton, R. B. Boyer, A. C. Pollins, N. L. Cardwell, L. B. Nanney,R. B. Shack, M. A. Mikesh,
+C. H. McGill, C. W. Driscoll, G. D. Bittner, W. P. Thayer. 2013. Blocking the P2X7 Receptor Improves Outcomes After Axonal Fusion. J. Surgical Research. 184(1):705-13. doi: 10.1016/j.jss.2013.04.082. PubMed PMID: 23731685; PubMed Central PMCID:.
+
+D.C. Riley, G.D. Bittner, M.A. Mikesh, N.L. Cardwell, A.C. Pollins, C.L. Ghergherehchi, S.R. Bhupanapadu Sunkesula, T.N. Ha, B.T.D. Hall, A.D. Poon, M. Pyarali, R.B. Boyer, A.T. Mazal, N. Munoz, R.C. Trevino, T.Schallert, W.P. Thayer. 2015. Polyethylene glycol--fused allografts produce rapid behavioral recovery after ablating sciatic nerve segments. J Neurosci Res. Apr;93(4):572-83. doi: 10.1002/jnr.23514. PubMed PMID: 25425242; PubMed Central PMCID: PMCPMC4329031.
+
+G.D. Bittner, K.K. Rokkappanavar, J.D. Peduzzi. 2015. Application and implications of PEG-fusion as a novel technology to repair injured spinal cords. Neural Regeneration Research. 10:1406-1408.
+
+C. L. Ghergherehchi, G. D. Bittner, R. L. Hastings, M. Mikesh, D. C. Riley, R. C. Trevino, T. Schallert, W. P. Thayer , S. Raju Bhupanapadu Sunkesula,, T-A. N. Ha\, N. Munoz, M. Pyarali, A. Bansal, A. D. Poon, A. T. Mazal, T. A. Smith, N. S. Wong, P. J. Dunne. 2016. Effects of extracellular calcium and surgical techniques on restoration of axonal continuity by PEG-fusion following complete cut- or crush-severance of rat sciatic nerves. J Neurosci Res. 94:231-245. Doi. 10.1002/jnr23704.
+
+G.D. Bittner, M. Mikesh, C. L. Ghergherehchi. 2016. PEG-fusion retards Wallerian degeneration and rapidly restores behaviors lost after nerve severance. Neural Regen. Res. 11:217-219. Doi 10.4103/1673-5374.177716.
+
+Bamba, R., et al. A novel therapy to promote axonal fusion in human digital nerves. The journal of trauma and acute care surgery 81, S177-s183 (2016).
+
+Mikesh M, Ghergherehchi CL, Hastings RL, Ali A, Rahesh S, Jagannath K, Sengelaub DR, Trevino RC, Jackson DM, Bittner GD. 2018. Polyethylene glycol solutions rapidly restore and maintain axonal continuity, neuromuscular structures and behaviors lost after sciatic nerve transections in female rats. J. Neurosci. Res. 96: 1223-1242. doi: 10.1002/jnr.24225.
+
+Mikesh M, Ghergherehchi CL, Rahesh S, Jagannath K, Ali A, Sengelaub DR, Trevino RC, Jackson DM, Tucker HO, Bittner GD. 2018. Polyethylene glycol treated allografts not tissue matched nor immunosuppressed rapidly repair sciatic nerve gaps, maintain neuromuscular functions, and restore voluntary behaviors in female rats. J. Neurosci. Res. 96:1243- 1264. doi: 10.1002/jnr.24227.
+
+Ghergherehchi CL, Mikesh M, Sengelaub DR, Jackson DM, Smith T, Shores JT, Bittner GD. (2019) Polyethylene glycol (PEG) and other bioactive solutions with neurorrhaphy for rapid and dramatic repair of peripheral nerve lesions by PEG-fusion. J Neurosci Methods. 314:1-12. NIHMS1518360, Publ.ID: NSM8215. Doi n1-
+.1016/jneumeth.2018.12.20.15
+
+Ghergherehchi CL, Sengelaub DR, Mikesh M, Shores JT, Bittner GD. 2019. Alterations in spinal connectivity and remodeling of motoneuron dendritic morphology after sciatic nerve transection with polyethylene glycol axon fusion repair. PLOS One. 14(10): 1-27 e0223443. https://doi.org/10.1371/journal.pone.0223443.
+
+Ghergherehchi, C. L., Mikesh, M., Sengelaub, D. R., Jackson, D. M., Smith, T., Nguyen, J., Shores, J. T., & Bittner, G. D. (2019). Polyethylene glycol (PEG) and other bioactive solutions with neurorrhaphy for rapid and dramatic repair of peripheral nerve lesions by PEG-fusion. Journal of neuroscience methods, 314, 1–12.
+ 
+https://doi.org/10.1016/j.jneumeth.2018.12.015
+
+Bittner G, Ghergherehchi C, Mikesh M, Senglelaub D, Trevino R, Shores J. 2019. Salomone et al did not induce PEG- fusion repair of severed rat facial nerves. Head Neck. 2019 Oct;41(10):3737-3739. doi: 10.1002/hed.25894. Epub 2019 Aug 9. PMID:31400039.
+
+Smith TA, Ghergherehchi CL, Mikesh M, Shores JT, Tucker HO, Bittner GD. 2020. Polyethylene glycol-fusion repair of sciatic allografts in female rats achieve immunotolerance via attenuated innate and adaptive responses. J Neurosci. Res. 98:2468-2495. PMID: 33008419; PMCID: PMC7532577.
+
+Smith TA Ghergherehchi CL, Tucker HO, G. D. Bittner GD.. 2020. Coding transcriptome analyses reveal altered functions underlying immunotolerance of PEG-fused rat sciatic nerve allografts. J. Neuroinflammation. 17:287-311. doi.org/10.1186/s12974-020-01953-8. PMID: 32931034.
+
+Ghergherehchi CL, Shores JT, Alderete J, Weitzel EK, Bittner GD. 2021. Methylene blue enhances PEG-fusion repair of completely severed rat sciatic nerves. Neural Regeneration Research. 16(10):2056-2063. doi.org/10.1186/s12974- 020-01953-8. PMID: 33642394; PMCID: PMC8343334.
