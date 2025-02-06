@@ -22,7 +22,7 @@ This repository contains Python scripts for solving various problems in neurosci
   - Pandas
   - Scikit-learn (for classification tasks)
   - IPython (for audio playback in Problem Set 5)
-- Data files:
+- Data files (not included):
   - `text_file.txt` (Problem Set 1)
   - `ps3_neural_data.npz`, `labels.txt` (Problem Set 3)
   - `ps4_dataset_2.npz`, `ps4_dataset_3.npz` (Problem Set 4)
@@ -34,3 +34,71 @@ This repository contains Python scripts for solving various problems in neurosci
    ```bash
    git clone [repository-url]
    cd [repository-name]
+   ```
+2. Install dependencies:
+   ```bash
+   pip install numpy matplotlib scipy pandas ipython scikit-learn
+   ```
+
+## Problem Sets Description
+
+### Problem Set 1 (`Problem_set_1.py`)
+- **Topics**: List/dictionary operations, matrix multiplication, word frequency analysis, neural data parsing.
+- **Functions**: 
+  - Basic list manipulations (elements, length, squares).
+  - Word frequency counter, student records dictionary.
+  - Dot product, matrix multiplication, neural label indexing.
+
+### Problem Set 2 (`Problem_set_2.py`)
+- **Topics**: NumPy array indexing, checkerboard pattern, statistical operations (subtract/negate values), matrix creation.
+- **Key Functions**:
+  - `checkerboard`, `subtract_from_between`, `row_index_matrix`, circular mask via Euclidean distance.
+
+### Problem Set 3 (`Problem_set_3.py`)
+- **Topics**: Matplotlib plotting, neurophysiology data analysis (tuning curves, PSTHs), binomial/Bonferroni correction.
+- **Includes**:
+  - Visualization of audio/neural data, peri-stimulus time histograms, multiple comparison corrections.
+
+### Problem Set 4 (`Problem_set_4.py`)
+- **Topics**: Statistical tests (t-test, bootstrap, permutation tests) for group comparisons.
+- **Datasets**: Simulated group data (unpaired and paired designs).
+
+### Problem Set 5 (`Problem_set_5.py`)
+- **Topics**: Signal processing (audio/EEG filtering), fMRI data analysis with FIR models.
+- **Features**:
+  - Low-pass filter design, spectrogram/Power Spectral Density (PSD) plots.
+  - Regression for fMRI voxel response prediction.
+
+### Additional Scripts
+
+#### `Bootstrap_permutation.py`
+- **Topics**: Bootstrap and permutation tests for estimating standard errors and p-values.
+- **Key Features**:
+  - Bootstrap resampling for SEM estimation.
+  - Permutation tests for hypothesis testing.
+
+#### `Classification.py`
+- **Topics**: Binary classification using logistic regression and SVM.
+- **Key Features**:
+  - Visualization of decision boundaries.
+  - ROC analysis for classifier evaluation.
+
+#### `Final_Project.py`
+- **Topics**: Comprehensive problem set covering array manipulations, statistical tests, bootstrapping, and signal filtering.
+- **Key Features**:
+  - Array operations (correlation, reshaping, sorting).
+  - Statistical tests (t-test, binomial test, bootstrapping).
+  - Signal filtering (low-pass and high-pass filters).
+
+---
+
+## Collaborators
+- **Sonu Yadav** (Primary Author)
+- **Kevin Seth** (Problem Sets 1–5, Bootstrap_permutation.py, Classification.py, Final_Project.py)
+- **Jared Lim** (Problem Sets 3–5, Final_Project.py)
+- **Raiyan Osman** (Problem Set 3)
+
+## Notes
+- Data files referenced in the scripts are not included in this repository.
+- Some results (e.g., audio output in Problem Set 5) require Jupyter/IPython environments.
+- The `Final_Project.py` script serves as a comprehensive review of the concepts covered in the problem sets.
